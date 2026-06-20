@@ -1,4 +1,4 @@
-# Cerca de tu boca
+# Cerca de tu boca, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Cerca de tu boca |
+| **Title** | Cerca de tu boca, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cerca-de-tu-boca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cerca de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-tu-boca/) |
+| **Get License** | [Get a Licensing Quote for Cerca de tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-tu-boca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras de reojo, me quitas el aliento
+> Tú tienes el fuego que yo siempre intento
+> Acércate un poco, rompe la distancia
+> Que yo me vuelvo loco aquí con tu fragancia
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `1f8aaab711261175bdcfd6cea060fd5833721855b1bf7110c1f89ae404192e47` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

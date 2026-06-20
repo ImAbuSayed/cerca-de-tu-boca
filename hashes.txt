@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cerca de tu boca, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Cerca de tu boca, Vol. 2** (cerca-de-tu-boca-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:56:58.186546 | `v1` | `1f8aaab711261175bdcfd6cea060fd5833721855b1bf7110c1f89ae404192e47` | `489258947b140e7c42cc3412208bfb21bd12cea6f242a003504b0dab960fe4c8` | `2026-06-21_cerca-de-tu-boca-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
